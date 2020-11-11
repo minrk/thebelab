@@ -1,0 +1,10 @@
+# This is only used by ReadTheDocs to ensure the latest node is installed
+name: docs
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - nodejs
+  - sphinx
+  - pip:
+    - -r doc-requirements.txt
