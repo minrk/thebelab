@@ -91,6 +91,7 @@ see how Thebe is used.
    examples/ipympl_example
    examples/plotly-example
    examples/ipycytoscape_example
+   examples/pythreejs-example
 
 * `Making use of Jupyter interactive widgets <_static/widgets.html>`_
 * `Status field and styling <_static/status_field.html>`_
@@ -112,4 +113,3 @@ Acknowledgements
 
 ``thebe`` was originally developed as a part of `OpenDreamKit <http://opendreamkit.org/>`_ -
 Horizon 2020 European Research Infrastructure project (676541).
-
